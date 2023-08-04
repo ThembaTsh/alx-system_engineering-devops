@@ -1,1 +1,2 @@
-#!/bin/bash sudo ls
+#!/bin/bash 
+sudo ls
