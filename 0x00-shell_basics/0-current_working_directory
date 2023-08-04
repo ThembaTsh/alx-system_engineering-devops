@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/correction/6003474278449996256555611201889894280153_5/205/495124/0x00-shell_basics
+${BASH_SOURCE:-$0}
